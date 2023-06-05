@@ -1,0 +1,26 @@
+img{
+    height :380px;
+    width : 300px;
+    padding : 15px;
+    border-radius: 30px;
+}
+#logo{
+    height : 300px;
+    width : 550px;
+    align-items: center;
+}
+#marvel{
+    height : 200px;
+    width : 550px;
+    align-items: center;
+}
+#images
+{
+    height : 600px;
+    width : 1500px;
+    background-image: url(https://images.unsplash.com/photo-1585314062604-1a357de8b000?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80);
+    border : 5px solid rgb(124, 29, 29);
+    display : flex;
+    align-items : center;
+    justify-content : space-evenly;
+}
